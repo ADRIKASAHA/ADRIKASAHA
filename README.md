@@ -10,7 +10,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/337869fc265db715bc53051fde314a89ceca0b18719f672ce90b57ff305ba460/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966](https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrikasaha&label=Profile%20views&color=0e75b6&style=flat" alt="adrikasaha" /> </p>
 
