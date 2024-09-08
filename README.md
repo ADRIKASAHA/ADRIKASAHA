@@ -1,7 +1,12 @@
 <h1 align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="MasterHead">
 </h1>
-<p></p><img align="right" alt="Coding" width="400" src="https://fabacademy.org/2022/labs/fct/students/ricardo-marques/images/week02/FireTest1.gif"></p>
+<h1 align="center">Hi 👋    I'm Debashish </h1>
+<h3 align="center">I am a Software Engineer, my work primarily focus on Machine Learning. I develop optimized ML model for image recognition and natural language processing. I am also a researcher and an inventor. I have written papers about Neural network design and lifecycle management of ML models. I have also filed 4 patents with United States Patent and Trademark Office.</h3>
+
+
+
+<img align="right" alt="Coding" width="400" src="https://fabacademy.org/2022/labs/fct/students/ricardo-marques/images/week02/FireTest1.gif">
 
 <h1 align="center">Hi 👋, I'm ADRIKA</h1>
 <h3 align="center">I'm a highly motivated professional with over 2 years of experience leveraging expertise in front-end development and QA engineering to contribute to groundbreaking projects. Possesses a strong foundation in various computer languages and frameworks, including HTML, CSS, JavaScript, React, and Angular.</h3>
