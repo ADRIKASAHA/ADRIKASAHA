@@ -2,7 +2,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="MasterHead">
 </h1>
 <h1 align="center">Hi 👋, I'm ADRIKA </h1>
-<h3 align="center">I'm a highly motivated professional with over 2 years of experience leveraging expertise in front-end development and QA engineering to contribute to groundbreaking projects. Possesses a strong foundation in various computer languages and frameworks, including HTML, CSS, JavaScript, React, and Angular</h3>
+<h3 align="center">I'm a highly motivated professional with over 2 years of experience leveraging expertise in front-end development and QA engineering to contribute to groundbreaking projects. Possesses a strong foundation in various computer languages and frameworks, including HTML, CSS, JavaScript, React, and Angular, Python</h3>
 
 
 
